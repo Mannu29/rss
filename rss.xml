@@ -3,13 +3,13 @@
 <channel> 
 
 <title>Title of Webpage</title>
-<link></link>
+<link>https://www.xul.fr</link>
 <description>About Webpage</description>
 <language>en-us</language>
 
 <item>
   <title>Article Title</title>
-  <link>Article URL</link>
+  <link>https://www.xul.fr</link>
   <description>Article Content</description>
 </item>
 
